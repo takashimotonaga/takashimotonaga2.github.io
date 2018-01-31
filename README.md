@@ -3,11 +3,12 @@
 You can use the [editor on GitHub](https://github.com/takashimotonaga/takashimotonaga2.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+アカウントのフラグ？が治ったあと作った２回めのページ
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+あまり上手くタグを使いこなすことができなかった## マークダウン
 ```markdown
 Syntax highlighted code block
 
