@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 課題のgithubのページにようこそ
 
 You can use the [editor on GitHub](https://github.com/takashimotonaga/takashimotonaga2.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
